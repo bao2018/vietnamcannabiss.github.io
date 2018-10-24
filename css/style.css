@@ -1,0 +1,360 @@
+main .hello .box1 .container .row .col button {
+    background: #1a3801;
+    color: #95c140;
+    border: 0
+}
+
+header {
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+}
+
+header .qaz .logo {
+    display: inline-block;
+    margin: 4px 0 0 170px;
+}
+
+header .qaz .mko .xyz {
+    display: inline-block;
+    color: #1a3801;
+    margin: 12px 10px;
+}
+
+header .qaz {
+    background: #95c140;
+    height: 50px;
+}
+
+header .qaz .mko .nji {
+    display: inline-block;
+    color: white;
+    margin: 12px 10px;
+}
+
+header .qaz .logo img {
+    width: 40px;
+    padding: 0 0 4px;
+}
+
+header .qaz form {
+    display: inline-block;
+    margin: 0 0 0 265px
+}
+
+header .qaz form button {
+    background: #1a3801
+}
+
+header .qaz form input {
+    background: #95c140;
+}
+
+
+}
+header .qaz input {
+    background: #2d2d2d;
+    border-radius: 20px;
+}
+header .qaz .mko .wsz {
+    display: inline-block;
+    color: white;
+    margin: 12px 10px;
+}
+header .qaz .mko {
+    display: inline-block;
+    color: #1a3801;
+    padding: 0 0 0 10px;
+}
+header .qaz .mko a {
+    color: #1a3801
+}
+main .hello {
+    width: 100%;
+}
+main .hello .box1 {
+    background: url('../img/392d89f6700aa3a72c060a00bba89004.jpeg');
+    width: 100%;
+    height: 580px;
+    background-repeat: no-repeat;
+    background-size: 1280px 600px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: white
+}
+main .hello .box3 {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background: #1a3801;
+    padding: 90px 0 0 0;
+    height: 840px;
+}
+main .hello .box5 {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background: #95c140;
+    height: 300px;
+}
+main .hello .box5 img {
+    width: 200px;
+    margin: 35px 0 10px;
+}
+main .hello .box5 h1 {
+    color: #1a3801
+}
+main .hello .box3 h6 {
+    color: white
+}
+main .hello .box2 .container .net {
+    height: 3px;
+    width: 70px;
+    background: white;
+    display: inline-block;
+    margin: 0 0 3px;
+}
+main .hello .box .net {
+    height: 3px;
+    width: 70px;
+    background: white;
+    display: inline-block;
+    margin: 0 0 3px;
+}
+main .hello .box3 .net {
+    height: 3px;
+    width: 70px;
+    background: #95c140;
+    display: inline-block;
+    margin: 0 0 3px;
+}
+main .hello .box4 .net {
+    height: 3px;
+    width: 70px;
+    background: white;
+    display: inline-block;
+    margin: 0 0 3px;
+}
+main .hello .box2 .container h3 {
+    margin: 40px 0 0 0;
+}
+main .hello .box2 {
+    width: 100%;
+    height: 470px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: #1a3801;
+    background: #95c140
+}
+main .hello .box2 .container .row .col-md-4 .boxx {
+    width: 350px;
+    height: 350px;
+    color: white
+}
+main .hello .box2 .container .row .col-md-4 .boxx img {
+    width: 150px;
+}
+main .hello .box2 .container .row .col-md-4 .boxx h6 {
+    margin: 10px;
+    color: #1a3801
+}
+main .hello .box2 .container .row {
+    padding: 15px 0 30px 0;
+}
+main .hello .box2 .container {
+    height: 400px;
+}
+main .gach {
+    width: 100%;
+    height: 10px;
+    background: #1a3801;
+}
+main .hello .box3 .container .row .col-md-5 .text .net {
+    background: white;
+    width: 300px;
+    height: 4px;
+}
+main .hello .box3 h3 {
+    margin: 0 0;
+    color: white
+}
+main .hello .box h3 {
+    color: #2d2d2d
+}
+main .hello .box p {
+    color: #2d2d2d;
+    margin: 0 0 30px;
+}
+main .hello .box3 .container .row .col-md-8 .row .col {
+    width: 50px;
+    height: 200px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background: #2d2d2d;
+    margin: 10px;
+}
+main .hello .box3 .container .row {}
+main .hello .box3 .container .row .col-md-4 {}
+section .box {
+    height: 760px;
+    width: 100%;
+    background: white;
+    text-align: center;
+    padding: 80px 0 80px 0;
+    background: url('../img/cannabis-plants.jpg');
+    background-repeat: no-repeat;
+}
+section .box4 {
+    height: 670px;
+    width: 100%;
+    text-align: center;
+    padding: 80px 0 80px 0;
+    background: url('../img/qtq80-Kyt4Wt.jpeg');
+    background-repeat: no-repeat;
+}
+section .box4 .container .row .col .row .col-md-4 img {
+    width: 110px;
+    border-radius: 50%
+}
+section .box4 .container {
+    padding: 5px 160px;
+    background: #95c140b8;
+    height: 360px;
+    max-width: 100%;
+    margin: 35px 0;
+}
+section .box4 .container .row .col .row .col-md-8 h6 {
+    color: white;
+    text-align: left;
+}
+section .box4 .container .row .col .row .col-md-8 {
+    padding: 10px 0 0 0;
+}
+section .box4 .container .row .col .row .col-md-8 p {
+    text-align: left;
+}
+.hello .box .container .row .col img {
+    width: 205px;
+    height: 150px;
+    border-radius: 10%;
+}
+.hello .box .container .row .col h6 {
+    margin: 20px;
+    color: white;
+}
+.hello .box4 .container .row .col h6 {
+    color: #95c140;
+}
+.hello .box .container .row .col {
+    flex-grow: 0;
+    padding: 47px 70px 10px 70px;
+}
+.hello .box .container {
+    background: #95c140b8;
+    max-width: 100%;
+}
+.hello .box4 .container .row .col {
+    padding: 0 17px;
+}
+.hello .box .container .row {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.hello .box4 .container .row {
+    padding: 20px 0 0 0;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.hello .box h3 {
+    margin: 0 0 0 0;
+}
+.hello .box4 h3 {
+    margin: 0 0 0 0;
+    color: #2d2d2d
+}
+.hello .box4 h6 {
+    color: #2d2d2d
+}
+.hello .box3 .container .row .col-md-5 {
+    background: #95c140;
+    height: 500px;
+    padding: 0;
+}
+.hello .box3 .container .row .col-md-5 .text {
+    padding: 30px;
+    text-align: left;
+    position: relative;
+}
+.hello .box3 .container .row .col-md-5 .text h3 {
+    margin: 0 0 25px;
+}
+.hello .box3 .container .row .col-md-7 .row .col .text {
+    padding: 17px;
+    text-align: left;
+    position: relative;
+}
+.hello .box3 .container .row .col-md-7 .row .col .text h4 {
+    display: inline-block
+}
+.hello .box3 .container .row .col-md-7 .row .col .text p {
+    display: inline-block;
+}
+.hello .box3 .container .row .col-md-7 .row .col .text .sale p {
+    display: inline-block;
+    background: red;
+    position: absolute;
+    border-radius: 20%;
+    font-size: 15px;
+    padding: 4px;
+    right: 60px;
+}
+.hello .box3 .container .row .col-md-5 .text h2 {
+    display: inline-block;
+}
+.hello .box3 .container .row .col-md-5 .text .sale p {
+    background: red;
+    position: absolute;
+    border-radius: 20%;
+    font-size: 15px;
+    padding: 4px;
+    right: 60px;
+}
+.hello .box3 .container .row .col-md-7 .row .col .text .sale p {
+    background: red;
+    position: absolute;
+    border-radius: 20%;
+    font-size: 10px;
+    padding: 2px;
+    right: 20px;
+}
+.hello .box3 .container .row .col-md-5 .text h5 {
+    display: inline-block;
+}
+.hello .box3 .container .row img {
+    width: 375px;
+}
+.hello .box3 .container .row .col-md-7 .row .col {
+    background: #95c140;
+    margin: 0 10px;
+    height: 240px;
+    padding: 0;
+}
+.hello .box3 .container .row .col-md-7 .row .col img {
+    width: 237.5px;
+}
+.hello .box3 .container .row {
+    padding: 0 0 20px 10px;
+}
+.hello .box3 .container {
+    padding: 50px 130px;
+    margin: 0 0 0 53px;
+}
+s
